@@ -1,0 +1,39 @@
+{"frames": {
+
+"ButtonOk0001.png":
+{
+	"frame": {"x":2,"y":2,"w":504,"h":229},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":229},
+	"sourceSize": {"w":504,"h":229},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonOk0002.png":
+{
+	"frame": {"x":508,"y":2,"w":504,"h":229},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":229},
+	"sourceSize": {"w":504,"h":229},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonOk0003.png":
+{
+	"frame": {"x":1014,"y":2,"w":504,"h":229},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":229},
+	"sourceSize": {"w":504,"h":229},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Buttons.png",
+	"format": "RGBA8888",
+	"size": {"w":1520,"h":233},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8da8199dac1f43e7a555c618161a35d3:a06ebe5b54341f07c02288cbbcf25cb1:3927448dce5de7869762a67ec500bb79$"
+}
+}

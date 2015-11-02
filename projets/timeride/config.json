@@ -1,0 +1,18 @@
+{
+	"version":"0.1.0",
+	"debug":false,
+	"fps":false,
+	"qrcode":false,
+	"language":"",
+	"languages":["en","fr"],
+	"assetsPath":"assets/",
+	"soundsPath":"assets/sounds/",
+	"langPath":"localization",
+	
+	"cheat":false,
+	"boxAlpha":0,
+	"animAlpha":1,
+	
+	"skipIntro":true,
+	"introDelay":3000
+}

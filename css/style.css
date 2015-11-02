@@ -1,0 +1,15 @@
+body {
+	background-image:url(../img/background.png);
+}
+
+.needCenter {
+	text-align: center;
+}
+
+.btnProject, .btnHome, .btnInfo, .btnSkill {
+	cursor: pointer;
+}
+
+#skill, #config, #project, #configError, #clock, #info, #home {
+	display: none;
+}

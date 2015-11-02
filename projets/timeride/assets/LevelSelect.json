@@ -1,0 +1,39 @@
+{"frames": {
+
+"LevelSelectBtn_1.png":
+{
+	"frame": {"x":2,"y":2,"w":810,"h":1536},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1536},
+	"sourceSize": {"w":810,"h":1536},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"LevelSelectBtn_2.png":
+{
+	"frame": {"x":2,"y":1540,"w":810,"h":1536},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1536},
+	"sourceSize": {"w":810,"h":1536},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"LevelSelectBtn_3.png":
+{
+	"frame": {"x":2,"y":3078,"w":810,"h":1536},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1536},
+	"sourceSize": {"w":810,"h":1536},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "LevelSelect.png",
+	"format": "RGBA8888",
+	"size": {"w":814,"h":4616},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:330cdcea025a0b0161459372983232f2:12e664454a64d9c69226600ab2a29e39:6c9749f3d47ff11dea4c0288f02159f4$"
+}
+}

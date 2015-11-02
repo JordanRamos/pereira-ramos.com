@@ -1,0 +1,312 @@
+{
+	"Wall1_box": {
+		"instance109": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 560,
+			"y": 0,
+			"height": 280
+		}
+	},
+	"EndLevel_box": {
+		"instance50": {
+			"x": -53,
+			"type": "Rectangle",
+			"width": 106,
+			"y": -215,
+			"height": 215
+		}
+	},
+	"KillZoneStatic_box": {
+		"instance62": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 280,
+			"y": -120,
+			"height": 120
+		}
+	},
+	"EnemySpeed_box": {
+		"mcFront": {
+			"x": 80,
+			"type": "Point",
+			"y": -120
+		},
+		"mcView": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 1500,
+			"y": -240,
+			"height": 240
+		},
+		"mcBody": {
+			"x": -80,
+			"type": "Rectangle",
+			"width": 160,
+			"y": -240,
+			"height": 240
+		}
+	},
+	"Platform0_box": {
+		"instance92": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 280,
+			"y": 0,
+			"height": 70
+		}
+	},
+	"Wall0_box": {
+		"instance105": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 280,
+			"y": 0,
+			"height": 280
+		}
+	},
+	"CheckPoint_box": {
+		"instance46": {
+			"x": -54,
+			"type": "Rectangle",
+			"width": 255,
+			"y": -754,
+			"height": 752
+		}
+	},
+	"Destructible_box": {
+		"instance99": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 280,
+			"y": 0,
+			"height": 280
+		}
+	},
+	"KillZoneDynamic_box": {
+		"instance58": {
+			"x": 0,
+			"type": "Circle",
+			"radius": 89,
+			"y": 0
+		}
+	},
+	"EnemyFire_box": {
+		"mcGun": {
+			"x": 109,
+			"type": "Point",
+			"y": -95
+		},
+		"mcFront": {
+			"x": 139,
+			"type": "Point",
+			"y": -129
+		},
+		"mcView": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 1500,
+			"y": -240,
+			"height": 240
+		},
+		"mcBody": {
+			"x": -138,
+			"type": "Rectangle",
+			"width": 276,
+			"y": -415,
+			"height": 415
+		}
+	},
+	"LimitRight_box": {
+		"instance76": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 560,
+			"y": 0,
+			"height": 560
+		}
+	},
+	"Player_box": {
+		"mcBox": {
+			"x": -25,
+			"type": "Rectangle",
+			"width": 56,
+			"y": -240,
+			"height": 240
+		},
+		"mcTop": {
+			"x": 0,
+			"type": "Point",
+			"y": -240
+		},
+		"mcCamera": {
+			"x": 373,
+			"type": "Point",
+			"y": -207
+		},
+		"mcBack": {
+			"x": -79,
+			"type": "Point",
+			"y": -120
+		},
+		"mcGun": {
+			"x": 113,
+			"type": "Point",
+			"y": -67
+		},
+		"mcFront": {
+			"x": 81,
+			"type": "Point",
+			"y": -120
+		},
+		"mcCheckBottom": {
+			"x": 0,
+			"type": "Point",
+			"y": 35
+		},
+		"mcBottom": {
+			"x": 0,
+			"type": "Point",
+			"y": 0
+		},
+		"mcCheckTop": {
+			"x": 0,
+			"type": "Point",
+			"y": -315
+		}
+	},
+	"Wall3_box": {
+		"instance117": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 560,
+			"y": 0,
+			"height": 560
+		}
+	},
+	"Shield_box": {
+		"mcBox": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 220,
+			"y": 0,
+			"height": 280
+		}
+	},
+	"BridgeRight_box": {
+		"instance87": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 280,
+			"y": 0,
+			"height": 70
+		}
+	},
+	"Wall2_box": {
+		"instance113": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 1120,
+			"y": 0,
+			"height": 280
+		}
+	},
+	"Collectable_box": {
+		"instance3": {
+			"x": 0,
+			"type": "Circle",
+			"radius": 70,
+			"y": 0
+		}
+	},
+	"Ground_box": {
+		"instance67": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 560,
+			"y": 0,
+			"height": 560
+		}
+	},
+	"EnemyBomb_box": {
+		"mcFront": {
+			"x": 80,
+			"type": "Point",
+			"y": -120
+		},
+		"mcView": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 1500,
+			"y": -240,
+			"height": 240
+		},
+		"mcBody": {
+			"x": -80,
+			"type": "Rectangle",
+			"width": 160,
+			"y": -240,
+			"height": 240
+		},
+		"mcRange": {
+			"x": -479,
+			"type": "Rectangle",
+			"width": 950,
+			"y": -474,
+			"height": 720
+		}
+	},
+	"LimitLeft_box": {
+		"instance71": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 560,
+			"y": 0,
+			"height": 560
+		}
+	},
+	"EnemyTurret_box": {
+		"mcGun": {
+			"x": -1,
+			"type": "Point",
+			"y": -153
+		},
+		"mcFront": {
+			"x": 80,
+			"type": "Point",
+			"y": -104
+		},
+		"mcView": {
+			"x": -930,
+			"type": "Rectangle",
+			"width": 1800,
+			"y": -700,
+			"height": 1223
+		},
+		"mcBody": {
+			"x": -80,
+			"type": "Rectangle",
+			"width": 160,
+			"y": -240,
+			"height": 240
+		}
+	},
+	"Platform1_box": {
+		"instance96": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 560,
+			"y": 0,
+			"height": 70
+		}
+	},
+	"BridgeLeft_box": {
+		"instance82": {
+			"x": 0,
+			"type": "Rectangle",
+			"width": 280,
+			"y": 0,
+			"height": 70
+		}
+	}
+}

@@ -1,0 +1,119 @@
+<xliff version="1.2">
+	<file original="" source-language="en-US" target-language="fr-FR">
+		<header></header>
+		<body>
+			<trans-unit id="1">
+				<source>SWIFT</source>
+				<target>SWIFT</target>
+			</trans-unit>
+			<trans-unit id="2">
+				<source>PLAY</source>
+				<target>JOUER</target>
+			</trans-unit>
+			<trans-unit id="3">
+				<source>HELP</source>
+				<target>AIDE</target>
+			</trans-unit>
+			<trans-unit id="4">
+				<source>NEXT</source>
+				<target>SUITE</target>
+			</trans-unit>
+			<trans-unit id="5">
+				<source>move</source>
+				<target>déplacer</target>
+			</trans-unit>
+			<trans-unit id="6">
+				<source>fire</source>
+				<target>tirer</target>
+			</trans-unit>
+			<trans-unit id="7">
+				<source>bomb</source>
+				<target>bombes</target>
+			</trans-unit>
+			<trans-unit id="8">
+				<source>special</source>
+				<target>spécial</target>
+			</trans-unit>
+			<trans-unit id="9">
+				<source>god mode</source>
+				<target>god mode</target>
+			</trans-unit>
+			<trans-unit id="10">
+				<source>Touch lives on the Hud to enable god mode</source>
+				<target>Toucher les vies dans le Hud pour activer le mode Dieu</target>
+			</trans-unit>
+			<trans-unit id="11">
+				<source>pause</source>
+				<target>pause</target>
+			</trans-unit>
+			<trans-unit id="12">
+				<source>fire upgrade</source>
+				<target>amélioration tir</target>
+			</trans-unit>
+			<trans-unit id="13">
+				<source>fire power</source>
+				<target>puissance du tir</target>
+			</trans-unit>
+			<trans-unit id="14">
+				<source>bomb +1</source>
+				<target>bombe +1</target>
+			</trans-unit>
+			<trans-unit id="15">
+				<source>life +1</source>
+				<target>vie +1</target>
+			</trans-unit>
+			<trans-unit id="16">
+				<source>shield</source>
+				<target>bouclier</target>
+			</trans-unit>
+			<trans-unit id="17">
+				<source>Slide your finger anywhere on screen to move the ship</source>
+				<target>Glisser votre doigt sur l'écran pour bouger le vaisseau</target>
+			</trans-unit>
+			<trans-unit id="18">
+				<source>lives</source>
+				<target>vies</target>
+			</trans-unit>
+			<trans-unit id="19">
+				<source>GAME OVER</source>
+				<target>GAME OVER</target>
+			</trans-unit>
+			<trans-unit id="20">
+				<source>YOU WIN</source>
+				<target>YOU WIN</target>
+			</trans-unit>
+			<trans-unit id="21">
+				<source>SCORE</source>
+				<target>SCORE</target>
+			</trans-unit>
+			<trans-unit id="22">
+				<source>Rudy MICHEL - DA</source>
+				<target>Rudy MICHEL - DA</target>
+			</trans-unit>
+			<trans-unit id="23">
+				<source>PEREIRA-RAMOS Jordan - GDP</source>
+				<target>PEREIRA-RAMOS Jordan - GDP</target>
+			</trans-unit>
+			<trans-unit id="24">
+				<source>Special Power-Up</source>
+				<target>Spécial Power-Up</target>
+			</trans-unit>
+			<trans-unit id="25">
+				<source>Make your enemies your allies</source>
+				<target>Vos énnemis deviennent des alliés</target>
+			</trans-unit>
+			<trans-unit id="26">
+				<source>bombs</source>
+				<target>bombes</target>
+			</trans-unit>
+			<trans-unit id="27">
+				<source>..WAITING FOR PLAYER 2..</source>
+				<target>..ATTENTE JOUEUR 2..</target>
+			</trans-unit>
+			<trans-unit id="28">
+				<source>.WAITING FOR PLAYER 2.</source>
+				<target>.ATTENTE JOUEUR 2.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

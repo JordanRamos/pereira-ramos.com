@@ -1,0 +1,2258 @@
+{
+	"instance154": {
+		"x": 8680,
+		"type": "Platform1",
+		"scaleY": 1,
+		"y": 0,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance404": {
+		"x": 30800,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 1680,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance868": {
+		"x": 32973.7,
+		"type": "LimitRight",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance887": {
+		"x": 4480,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.4,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance860": {
+		"x": 36960,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance161": {
+		"x": 2520,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1679.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance883": {
+		"x": 4760,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.4,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance164": {
+		"x": 8120,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 284,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance550": {
+		"x": 28429.2,
+		"type": "KillZoneDynamic",
+		"scaleY": 1,
+		"y": 1542.75,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance167": {
+		"x": 8960,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance407": {
+		"x": 30520,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 1680,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance554": {
+		"x": 25198.75,
+		"type": "Platform1",
+		"scaleY": 1,
+		"y": 1959.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance170": {
+		"x": 9520,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance895": {
+		"x": 3920,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.2,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance903": {
+		"x": 3360,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.3,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance401": {
+		"x": 29960,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1890,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance173": {
+		"x": 4200,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 839.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance845": {
+		"x": 32973.7,
+		"type": "LimitRight",
+		"scaleY": 1,
+		"y": 1120,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance907": {
+		"x": 3080,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance560": {
+		"x": 24078.75,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 1610.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance177": {
+		"x": 8680,
+		"type": "Wall1",
+		"scaleY": 1,
+		"y": 276.7,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance465": {
+		"x": 25200,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance398": {
+		"x": 32480,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance180": {
+		"x": 8680,
+		"type": "Wall1",
+		"scaleY": 1,
+		"y": 840,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance915": {
+		"x": 2520,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.4,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance471": {
+		"x": 26880,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance183": {
+		"x": 8680,
+		"type": "Wall1",
+		"scaleY": 1,
+		"y": 1400,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance856": {
+		"x": 36680,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance468": {
+		"x": 26320,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance395": {
+		"x": 31920,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance186": {
+		"x": 8680,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 1400,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance568": {
+		"x": 24638.75,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 1399.8,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance576": {
+		"x": 25058.75,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1260,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance190": {
+		"x": 8960,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 1400,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance899": {
+		"x": 3640,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.3,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance564": {
+		"x": 25478.75,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 1610.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance557": {
+		"x": 24078.75,
+		"type": "Platform1",
+		"scaleY": 1,
+		"y": 1959.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance194": {
+		"x": 8960,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 839.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance924": {
+		"x": 31640,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 2240.6,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance582": {
+		"x": 27994.7,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1510.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance2": {
+		"x": 0,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance572": {
+		"x": 25198.75,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 1399.8,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance585": {
+		"x": 11480,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": -840,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance202": {
+		"x": 9652.85,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1539.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance932": {
+		"x": 31778.95,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 3085,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance198": {
+		"x": 8680,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 839.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance5": {
+		"x": 560,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance879": {
+		"x": 5040,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.3,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance579": {
+		"x": 24489.45,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1260,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance593": {
+		"x": 10080,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 0,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance8": {
+		"x": 1120,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance589": {
+		"x": 11200,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": -840,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance205": {
+		"x": 8680,
+		"type": "Wall1",
+		"scaleY": 1,
+		"y": 1960,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance11": {
+		"x": 0,
+		"type": "LimitLeft",
+		"scaleY": 1,
+		"y": 1680,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance935": {
+		"x": 32760,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance208": {
+		"x": 8680,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 1960,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance216": {
+		"x": 9240,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 1609.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance891": {
+		"x": 4200,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.2,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance596": {
+		"x": 11200,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 0,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance212": {
+		"x": 8960,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 1960,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance14": {
+		"x": 0,
+		"type": "LimitLeft",
+		"scaleY": 1,
+		"y": 1120,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance599": {
+		"x": 10640,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 0.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance607": {
+		"x": 11760,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": -560,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance17": {
+		"x": 0,
+		"type": "LimitLeft",
+		"scaleY": 1,
+		"y": 560,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance603": {
+		"x": 10920,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 0,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance220": {
+		"x": 9240,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 1609.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance20": {
+		"x": 0,
+		"type": "LimitLeft",
+		"scaleY": 1,
+		"y": 0,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance919": {
+		"x": 828.05,
+		"type": "flash.display::MovieClip",
+		"scaleY": 1,
+		"y": 1154.65,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance224": {
+		"x": 11200,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 1680,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance23": {
+		"x": 3080,
+		"type": "Platform1",
+		"scaleY": 1,
+		"y": 1400,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance610": {
+		"x": 11200,
+		"type": "Wall1",
+		"scaleY": 1,
+		"y": -840,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance617": {
+		"x": 8120,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance230": {
+		"x": 13160,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 1680,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance613": {
+		"x": 8400,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance227": {
+		"x": 14000,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance629": {
+		"x": 7280,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2239.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance625": {
+		"x": 7560,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance237": {
+		"x": 11760,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 1680,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance621": {
+		"x": 7840,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance233": {
+		"x": 12880,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 1680,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance241": {
+		"x": 14560,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance921": {
+		"x": 22960,
+		"type": "Wall0",
+		"scaleY": 1,
+		"y": 1959.7,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance633": {
+		"x": 7000,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance641": {
+		"x": 6440,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2239.8,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance26": {
+		"x": 9800,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 490,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance637": {
+		"x": 6720,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance645": {
+		"x": 6160,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2239.8,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance928": {
+		"x": 32760,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 1741.35,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance30": {
+		"x": 10097.95,
+		"type": "CheckPoint",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance32": {
+		"x": 10640,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance942": {
+		"x": 33600,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance247": {
+		"x": 12320,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1890,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance653": {
+		"x": 5600,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2239.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance244": {
+		"x": 15120,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance250": {
+		"x": 10640,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1960,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance257": {
+		"x": 13014.65,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 2100,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance938": {
+		"x": 33320,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance35": {
+		"x": 9800,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 490,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance661": {
+		"x": 18480,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance649": {
+		"x": 5880,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2239.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance657": {
+		"x": 5320,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2239.7,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance665": {
+		"x": 1680,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance253": {
+		"x": 10920,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 1680,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance39": {
+		"x": 11200,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance45": {
+		"x": 12320,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance42": {
+		"x": 11760,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance671": {
+		"x": 29120,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance260": {
+		"x": 11891,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 2100,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance266": {
+		"x": 13720,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 1960,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance51": {
+		"x": 13440,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance263": {
+		"x": 12457.75,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1770,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance48": {
+		"x": 12880,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance54": {
+		"x": 2800,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance668": {
+		"x": 2240,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance272": {
+		"x": 15400,
+		"type": "Wall0",
+		"scaleY": 1,
+		"y": 0.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance57": {
+		"x": 3360,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance270": {
+		"x": 14698.15,
+		"type": "CheckPoint",
+		"scaleY": 1,
+		"y": 2240.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance677": {
+		"x": 33880,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance60": {
+		"x": 3920,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance674": {
+		"x": 31640,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance275": {
+		"x": 15680,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance63": {
+		"x": 4480,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance911": {
+		"x": 2800,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.6,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance278": {
+		"x": 16240,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance66": {
+		"x": 5040,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance680": {
+		"x": 35000,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance281": {
+		"x": 15400,
+		"type": "Wall0",
+		"scaleY": 1,
+		"y": 560.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance69": {
+		"x": 5600,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance683": {
+		"x": 32200,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance284": {
+		"x": 16520,
+		"type": "Wall0",
+		"scaleY": 1,
+		"y": 560.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance72": {
+		"x": 6160,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance687": {
+		"x": 32480,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance287": {
+		"x": 15680,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 560.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance75": {
+		"x": 6720,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance691": {
+		"x": 34440,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance291": {
+		"x": 16240,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 560.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance78": {
+		"x": 7280,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance695": {
+		"x": 34720,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance295": {
+		"x": 22785.25,
+		"type": "EnemyBomb",
+		"scaleY": 1,
+		"y": 2239.8,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance299": {
+		"x": 15680,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 440,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance699": {
+		"x": 36120,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance706": {
+		"x": 35840,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance302": {
+		"x": 16660.25,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 140,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance702": {
+		"x": 35560,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance81": {
+		"x": 7840,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance305": {
+		"x": 15590.25,
+		"type": "KillZoneDynamic",
+		"scaleY": 1,
+		"y": 1675.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance84": {
+		"x": 8400,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance448": {
+		"x": 16800,
+		"type": "Wall0",
+		"scaleY": 1,
+		"y": 1679.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance710": {
+		"x": 30800,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 2800,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance87": {
+		"x": 3640,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1120,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance309": {
+		"x": 15680,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1890,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance713": {
+		"x": 31360,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance720": {
+		"x": 16097.75,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1279.4,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance312": {
+		"x": 15960,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1400,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance717": {
+		"x": 29400,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1960,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance723": {
+		"x": 10774.6,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1680,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance315": {
+		"x": 16240,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1890,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance726": {
+		"x": 19040,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance318": {
+		"x": 17307,
+		"type": "CheckPoint",
+		"scaleY": 1,
+		"y": 275,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance948": {
+		"x": 1273.4,
+		"type": "Player",
+		"scaleY": 1,
+		"y": 2240.7,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance729": {
+		"x": 19600,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance320": {
+		"x": 16240,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1050,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance732": {
+		"x": 20720,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance323": {
+		"x": 15680,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1050,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance735": {
+		"x": 20160,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance326": {
+		"x": 15960,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 769.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance738": {
+		"x": 18760,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance329": {
+		"x": 3920,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 839.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance742": {
+		"x": 19040,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance332": {
+		"x": 2800,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1400,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance746": {
+		"x": 19600,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance335": {
+		"x": 7840,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 276.7,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance750": {
+		"x": 19320,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance338": {
+		"x": 8960,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": -138.6,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance754": {
+		"x": 19880,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance341": {
+		"x": 16800,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance758": {
+		"x": 20160,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance344": {
+		"x": 15400,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 0.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance762": {
+		"x": 20440,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance348": {
+		"x": 16800,
+		"type": "Wall2",
+		"scaleY": 1,
+		"y": 280.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance766": {
+		"x": 20720,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance351": {
+		"x": 15480,
+		"type": "EnemyTurret",
+		"scaleY": 1,
+		"y": 560.2,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance770": {
+		"x": 21280,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance355": {
+		"x": 17360,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance774": {
+		"x": 21000,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance358": {
+		"x": 17920,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance778": {
+		"x": 18620,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 490,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance361": {
+		"x": 18480,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance781": {
+		"x": 17640,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance364": {
+		"x": 21280,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance785": {
+		"x": 17920,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance367": {
+		"x": 21840,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance946": {
+		"x": 36208.9,
+		"type": "EndLevel",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance789": {
+		"x": 18200,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance370": {
+		"x": 17360,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance793": {
+		"x": 18340,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 381.6,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance374": {
+		"x": 22820,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 2119.8,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance796": {
+		"x": 19180,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 770.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance377": {
+		"x": 21980,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 2119.8,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance799": {
+		"x": 18900,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 661.7,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance380": {
+		"x": 17920,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 280,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance802": {
+		"x": 19740,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1050,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance384": {
+		"x": 22400,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance805": {
+		"x": 19460,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 941.6,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance90": {
+		"x": 6440,
+		"type": "CheckPoint",
+		"scaleY": 1,
+		"y": 839.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance808": {
+		"x": 20300,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1330,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance92": {
+		"x": 10080,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance387": {
+		"x": 30240,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance95": {
+		"x": 9375.9,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 424,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance390": {
+		"x": 23573.35,
+		"type": "CheckPoint",
+		"scaleY": 1,
+		"y": 2234.8,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance441": {
+		"x": 16520,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance811": {
+		"x": 20020,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1221.6,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance392": {
+		"x": 32784.65,
+		"type": "EnemyFire",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance98": {
+		"x": 9654.95,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 704.75,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance445": {
+		"x": 16800,
+		"type": "Wall0",
+		"scaleY": 1,
+		"y": 1120,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance474": {
+		"x": 27440,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance101": {
+		"x": 9652.85,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1120,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance455": {
+		"x": 16800,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 1119.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance437": {
+		"x": 16800,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance104": {
+		"x": 10360,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 0,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance459": {
+		"x": 22960,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance480": {
+		"x": 25760,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance108": {
+		"x": 10080,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 0,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance477": {
+		"x": 28000,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance483": {
+		"x": 28560,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance112": {
+		"x": 10500.95,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": -420,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance820": {
+		"x": 21560,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1890.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance486": {
+		"x": 29680,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance115": {
+		"x": 11619.9,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": -420.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance823": {
+		"x": 21140,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1781.7,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance489": {
+		"x": 24080,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance118": {
+		"x": 11339.3,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": -420,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance826": {
+		"x": 19040,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 416.7,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance492": {
+		"x": 24640,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance121": {
+		"x": 11619.9,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": -135,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance829": {
+		"x": 19600,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 704.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance433": {
+		"x": 17080,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance124": {
+		"x": 11339.3,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": -134.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance832": {
+		"x": 20440,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1120,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance497": {
+		"x": 24358.75,
+		"type": "Wall2",
+		"scaleY": 1,
+		"y": 1399.8,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance127": {
+		"x": 10640,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 0,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance495": {
+		"x": 29680,
+		"type": "CheckPoint",
+		"scaleY": 1,
+		"y": 2240.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance500": {
+		"x": 24358.75,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance131": {
+		"x": 4480,
+		"type": "Wall2",
+		"scaleY": 1,
+		"y": 840,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance838": {
+		"x": 30800,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance504": {
+		"x": 24638.75,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance427": {
+		"x": 31500.6,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance841": {
+		"x": 32973.7,
+		"type": "LimitRight",
+		"scaleY": 1,
+		"y": 1680,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance430": {
+		"x": 22260,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1889.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance134": {
+		"x": 5600,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 839.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance814": {
+		"x": 20860,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1610.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance512": {
+		"x": 25198.75,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance424": {
+		"x": 32480,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 2088.6,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance508": {
+		"x": 24918.75,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 2240.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance516": {
+		"x": 24918.75,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1960,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance138": {
+		"x": 6160,
+		"type": "Wall1",
+		"scaleY": 1,
+		"y": 839.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance849": {
+		"x": 32973.7,
+		"type": "LimitRight",
+		"scaleY": 1,
+		"y": 560,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance519": {
+		"x": 26322.5,
+		"type": "CheckPoint",
+		"scaleY": 1,
+		"y": 2240.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance872": {
+		"x": 12901.3,
+		"type": "EnemySpeed",
+		"scaleY": 1,
+		"y": 2240.2,
+		"rotation": 180,
+		"scaleX": 1
+	},
+	"instance853": {
+		"x": 37240,
+		"type": "Wall3",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance421": {
+		"x": 32764.45,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1559.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance141": {
+		"x": 6720,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 839.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance817": {
+		"x": 20580,
+		"type": "Platform0",
+		"scaleY": 1,
+		"y": 1501.7,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance835": {
+		"x": 21000,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1400,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance145": {
+		"x": 7000,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 560,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance451": {
+		"x": 16800,
+		"type": "KillZoneStatic",
+		"scaleY": 1,
+		"y": 1675.15,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance418": {
+		"x": 31500.6,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 1540,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance148": {
+		"x": 1960,
+		"type": "Wall1",
+		"scaleY": 1,
+		"y": 1960.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance864": {
+		"x": 37800,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 3360,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance415": {
+		"x": 31920,
+		"type": "Platform1",
+		"scaleY": 1,
+		"y": 1680.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance151": {
+		"x": 7280,
+		"type": "Platform1",
+		"scaleY": 1,
+		"y": 560,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance521": {
+		"x": 27442.2,
+		"type": "Destructible",
+		"scaleY": 1,
+		"y": 1960.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance532": {
+		"x": 27853.25,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 2112.95,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance462": {
+		"x": 23520,
+		"type": "Ground",
+		"scaleY": 1,
+		"y": 2240,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance529": {
+		"x": 27720,
+		"type": "Wall1",
+		"scaleY": 1,
+		"y": 1680.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance411": {
+		"x": 31360,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 1741.35,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance157": {
+		"x": 5040.05,
+		"type": "EnemyTurret",
+		"scaleY": 1,
+		"y": 840,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance525": {
+		"x": 28280,
+		"type": "Destructible",
+		"scaleY": 1,
+		"y": 1960.1,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance538": {
+		"x": 26742.05,
+		"type": "KillZoneDynamic",
+		"scaleY": 1,
+		"y": 1542.75,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance546": {
+		"x": 27440,
+		"type": "BridgeRight",
+		"scaleY": 1,
+		"y": 1889.9,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance535": {
+		"x": 28134.7,
+		"type": "Collectable",
+		"scaleY": 1,
+		"y": 2112.95,
+		"rotation": 0,
+		"scaleX": 1
+	},
+	"instance542": {
+		"x": 28280,
+		"type": "BridgeLeft",
+		"scaleY": 1,
+		"y": 1889.9,
+		"rotation": 0,
+		"scaleX": 1
+	}
+}
